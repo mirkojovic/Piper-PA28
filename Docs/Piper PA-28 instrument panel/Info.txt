@@ -1,0 +1,8 @@
+Test your printer Scaling (geometry) by printing out PRINTER TO SCALE TESTS.PDF First.
+
+Note: When printing out panel for true scale use "Send Graphics As Vector" for printing preferences.( See Vector Graphics.jpg )
+
+Disclaimer: FOR FLIGHT SIMULATION USE ONLY.
+This CAD drawing was not prepared or approved by Piper Aircraft, Inc.
+The information provided is only for information and therefore no responsibility will be accepted for its content (as it might be the suitability or use of the drawing for a particular purpose). Also there is no guarantee that the information provided in this drawing is reliable, complete or current. This disclaimer must be included with this file.
+
